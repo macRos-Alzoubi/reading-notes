@@ -1,14 +1,19 @@
 #Markdown
-**Markdown**: Markdown is a way of styling text on a webpage,
+**Markdown**:
+Markdown is a way of styling text on a webpage,
 It can also give you the ability to control the display of the
 document formatting words adding images, and many great things.
 
 some examples of the syntax:
 
 -Bold Text: **Bold**.
--Italic Text: *Italic*.
+
+-Italic Text: *Italic*
+.
 -lists: ``` - for list strat with a dash, * for list strat with a star, {1-9} for numbered listes  ```.
+
 -Images: ``` ![Text](image-path) ```
+
 -Code: ``` Your Code ```
 
 GFM(GitHub Flavored Markdown):
