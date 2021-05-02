@@ -1,6 +1,6 @@
 #Growth Mindset Explanation
 **[Growth](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)**: 
-Believing that one's fundamentals abilities like ***intelligence**** and ***talent*** can be
+Believing that one's fundamentals abilities like ***intelligence*** and ***talent*** can be
 developed through *hard-working* and *practicing*, A growth mindset is synonymous with
 a love of learning which means
 the more you love to learn something the more you try and practice
