@@ -8,8 +8,8 @@ some examples of the syntax:
 
 -Bold Text: **Bold**.
 
--Italic Text: *Italic*
-.
+-Italic Text: *Italic*.
+
 -lists: ``` - for list strat with a dash, * for list strat with a star, {1-9} for numbered listes  ```.
 
 -Images: ``` ![Text](image-path) ```
