@@ -34,7 +34,6 @@ CSS is a rule-based language, You define rules specifying groups of styles that 
         <h1 style="color:blue;text-align:center;">This is a heading</h1>
         <p style="color:red;">This is a paragraph.</p>
         ```
-  
 - **CSS color Property**:
   The color property can be applied by a different Ways
   1. Name value: i.g ``` body { color: red;} ```
@@ -43,5 +42,3 @@ CSS is a rule-based language, You define rules specifying groups of styles that 
   4. RGBA value: i.g ``` body { color: rgba(255, 0, 0, 0);} ```
   5. HSL value: i.g ``` body { color: hsl(89, 43%, 51%);} ``` 
   6. HSLA value: i.g ``` body {color: hsla(89, 43%, 51%, 0.6);} ``` 
-
-
