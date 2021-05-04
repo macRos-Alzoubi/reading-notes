@@ -15,7 +15,8 @@ CSS is a rule-based language, You define rules specifying groups of styles that 
     2. **Internal CSS**:
       An internal style sheet may be used if one single HTML page has a unique style.
       The internal style is defined inside the 
-       - ``` 
+       -
+        ``` 
        <head>
         <style>
           body {
@@ -26,13 +27,16 @@ CSS is a rule-based language, You define rules specifying groups of styles that 
           margin-left: 40px;
           }
           </style>
-        </head> ```
+        </head>
+         ```
     3. **Inline CSS**:
       An inline style may be used to apply a unique style for a single element.
       To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
-        - ``` 
+        - 
+        ``` 
         <h1 style="color:blue;text-align:center;">This is a heading</h1>
-        <p style="color:red;">This is a paragraph.</p>      ```
+        <p style="color:red;">This is a paragraph.</p>
+         ```
 - **CSS color Property**:
   The color property can be applied by a different Ways
   1. Name value: i.g ``` body { color: red;} ```
