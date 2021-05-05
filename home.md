@@ -8,6 +8,4 @@ Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Co
 | GIT           | [read_2](read_2.md)  |
 |Wireframe &HTML| [read_3a](read_3a.md)|
 |CSS            | [read_3b](read_3b.md)|
-
-
-
+|javascript     | [read_4](read_4.md)  |
