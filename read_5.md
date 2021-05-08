@@ -6,13 +6,13 @@ There are many different kinds of loops, but they all essentially do the same th
 ### The statements for loops provided in JavaScript are:
  - **for statement**:
 
- A  ```for``` loop repeats until a specified condition evaluates to ```false```. The JavaScript for loop is similar to the Java and C ```for``` loop.
-    - A ***for*** statement looks as follows:
+ A  ***for*** loop repeats until a specified condition evaluates to ***false***. The JavaScript for loop is similar to the Java and C ***for*** loop.
+  - A ***for*** statement looks as follows:
     ```
     for ([initialExpression]; [conditionExpression]; [incrementExpression])
     statement
     ```
-    - When a ***for*** loop executes, the following occurs:
+  - When a ***for*** loop executes, the following occurs:
       1. The initializing expression ***initialExpression***, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
       2. The ***conditionExpression*** expression is evaluated. If the value of ***conditionExpression*** is true, the loop statements execute. If the value of ***condition*** is false, the ***for*** loop terminates. (If the ***condition*** expression is omitted entirely, the ***condition*** is assumed to be true.)
       3. The ***statement*** executes. To execute multiple statements, use a block statement (```{ ... }```) to
@@ -25,6 +25,7 @@ There are many different kinds of loops, but they all essentially do the same th
     console.log('Walking east one step');
     }
     ```
+
 - **do...while statement**
 
   **The do...while** statement repeats until a specified condition evaluates to false.
@@ -68,4 +69,3 @@ A ***while*** statement executes its statements as long as a specified condition
     x += n;
   }
  ```
- 
