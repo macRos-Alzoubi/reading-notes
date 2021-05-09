@@ -12,4 +12,4 @@ Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Co
 |JS loops(for,  |                      |
 |do...while,    |                      |
 |while)         | [read_5](read_5.md)  |
-|JS (Functions)  | [read_6](reas_6.md)  |
+|JS (Functions)  | [read_6](read_6.md) |
