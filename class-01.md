@@ -227,22 +227,22 @@
   order to achieve it.
   1. DEFINE THE GOAL:
 
-   First, you need to define the task you want to
-   achieve. You can think of this as a puzzle for the
-   computer to solve.
+    First, you need to define the task you want to
+    achieve. You can think of this as a puzzle for the
+    computer to solve.
 
   2. DESIGN THE SCRIPT:
 
-   To design a script you split the goal out into a
-   series
-   of tasks that are going to be involved in solving this
-   puzzle. This can be represented using a flowchart.
+    To design a script you split the goal out into a
+    series
+    of tasks that are going to be involved in solving this
+    puzzle. This can be represented using a flowchart.
   
   3. CODE EACH STEP:
 
-   Each of the steps needs to be written in a
-   programming language that the compu ter
-   understands. In our case, this is JavaScript.
+    Each of the steps needs to be written in a
+    programming language that the compu ter
+    understands. In our case, this is JavaScript.
 
 - ## EXAMPLES OF JAVASCRIPT IN THE BROWSER
   - Forms
