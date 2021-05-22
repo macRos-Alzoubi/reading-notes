@@ -275,7 +275,7 @@
    When a specific event happens, that event can be
    used to trigger a specific section of the code.
 
-_ ## __METHODS__:
+- ## __METHODS__:
   - ### What is METHODS:
    Methods typically represent how people (or other
    things) interact with an object in the real world.
