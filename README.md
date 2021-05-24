@@ -21,7 +21,7 @@ Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Co
 | :------: | :---------------------: |
 | class-01 | [class-01](class-01.md) |
 | class-02 | [class-02](class-02.md) |
-|          |                         |
+| class-03 | [class-03](class-03.md) |
 |          |                         |
 |          |                         |
 |          |                         |
