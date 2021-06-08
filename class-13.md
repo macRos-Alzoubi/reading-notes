@@ -110,13 +110,13 @@ function handle_storage(e) {
 
 - ### STORAGEEVENT OBJECT
 
-| PROPERTY |  TYPE | DESCRIPTION |
-|:-------- | :---- |:------------|
-| key      | string| the named key that was added, removed, or modified|
-| oldValue | any   | the previous value (now overwritten), or null if a new item was added|
-| newValue | any   | the new value, or null if an item was removed|
-| url*     | string| the page which called a method that triggered this change|
-|* Note: the `url` property was originally called `uri`. Some browsers shipped with that property before the specification changed. For maximum compatibility, you should check whether the `url` property exists, and if not, check for the `uri` property instead.|
+| PROPERTY |  TYPE |                           DESCRIPTION                                  |
+|:-------- | :---- |:-----------------------------------------------------------------------|
+| key      | string| the named key that was added, removed, or modified                     |
+| oldValue | any   | the previous value (now overwritten), or null if a new item was added  |
+| newValue | any   | the new value, or null if an item was removed                          |
+| url*     | string| the page which called a method that triggered this change              |
+|* Note: the `url` property was originally called `uri`.Some browsers shipped with that property before the specification changed. For maximum compatibility, you should check whether the `url` property exists, and if not, check for the `uri` property instead. |  |  |
 | | |
 
 The storage event is not cancelable. From within the handle_storage callback function, there is no way to stop the change from occurring. It’s simply a way for the browser to tell you, “hey, this just happened. There’s nothing you can do about it now.
