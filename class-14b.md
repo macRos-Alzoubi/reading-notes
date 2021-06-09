@@ -54,4 +54,3 @@ Within psychology, researchers sometimes colloquially refer to traits like ‘�
 
 However, establishing psychological safety is, by its very nature, somewhat messy and difficult to implement. You can tell people to take turns during a conversation and to listen to one another more. You can instruct employees to be sensitive to how their colleagues feel and to notice when someone seems upset. But the kinds of people who work at Google are often the ones who became software engineers because they wanted to avoid talking about feelings in the first place.
 
-## ‘As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.’
