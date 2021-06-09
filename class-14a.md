@@ -263,3 +263,4 @@ The `forwards` value will keep the styles declared within the last specified `ke
 The `backwards` value will apply the styles within the first specified `keyframe` as soon as being identified, before the animation has been run. This does include applying those styles during any time that may be set within an animation delay. The `backwards` value may also be affected by the `animation-direction` property value.
 
 Lastly, the `both` value will apply the behaviors from both the forwards and backwards values.
+
