@@ -1,6 +1,8 @@
-Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Computer Sciences from Yarmouk university, I graduated about 3 years ago, I have passion towards computer programing and computer networking.
+# Reading Notes
 
-# Code 102 Reading Notes
+Reading Nottes is a websit where i write a notes abut new stuff that i learn in my journey of being a software developer.
+
+## Code 102 - Intro to Software Development
 
 |      Files      |         Links         |
 | :-------------: | :-------------------: |
@@ -15,7 +17,7 @@ Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Co
 |     while)      |  [read_5](read_5.md)  |
 | JS (Functions)  |  [read_6](read_6.md)  |
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 |  Files   |          Links          |
 | :------: | :---------------------: |
@@ -34,3 +36,7 @@ Hello, I'm Mohammad Alzoubi i'm 27 years old i'm holding a bachelor degree in Co
 | class-13 | [class-13](class-13.md) |
 | class-14a| [class-14a](class-14a.md) |
 | class-14b| [class-14b](class-14b.md) |
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
