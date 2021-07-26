@@ -42,5 +42,7 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 |  Files   |          Links          |
 | :------: | :---------------------: |
 | class-01 | [class-01](301-read_1.md) |
+| class-02 | [class-02](301-read_2.md) |
+
 
 ## Code 401 - Advanced Software Development
