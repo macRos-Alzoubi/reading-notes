@@ -44,6 +44,7 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 | class-01 | [class-01](301-read_1.md) |
 | class-02 | [class-02](301-read_2.md) |
 | class-03 | [class-03](301-read_3.md) |
+| class-04 | [class-04](301-read_4.md) |
 
 
 ## Code 401 - Advanced Software Development
