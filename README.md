@@ -66,4 +66,5 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 | class-02 | [class-02](401-read_2.md) |
 | class-03 | [class-03](401-read_3.md) |
 | class-04 | [class-04](401-read_4.md) |
+| class-05 | [class-05](401-read_5.md) |
 
