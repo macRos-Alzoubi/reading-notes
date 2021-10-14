@@ -74,4 +74,5 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 | class-11 | [class-11](401-read_11.md) |
 | class-12 | [class-12](401-read_12.md) |
 | class-13 | [class-13](401-read_13.md) |
+| class-14 | [class-14](401-read_14.md) |
 
