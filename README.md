@@ -82,3 +82,4 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 | class-26 | [class-26](401-read_26.md) |
 | class-27 | [class-27](401-read_27.md) |
 | class-28 | [class-28](401-read_28.md) |
+| class-29 | [class-29](401-read_29.md) |
