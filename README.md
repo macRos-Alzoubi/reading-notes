@@ -90,3 +90,6 @@ Reading Nottes is a websit where i write a notes abut new stuff that i learn in 
 | class-34 | [class-34](401-read_34.md) |
 | class-35 | [class-35](401-read_35.md) |
 | class-36 | [class-36](401-read_36.md) |
+| class-37 | [class-37](401-read_37.md) |
+| class-38 | [class-38](401-read_38.md) |
+| class-39 | [class-39](401-read_39.md) |
